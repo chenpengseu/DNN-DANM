@@ -1,0 +1,7 @@
+/root/miniconda3/envs/myconda/bin/python
+
+/mnt/control_error
+
+hz-t3.matpool.com
+26036
+@L*Epj})A0lqLDu+
